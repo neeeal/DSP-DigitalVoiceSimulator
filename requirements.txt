@@ -1,0 +1,6 @@
+scipy
+numpy
+os
+matplotlib
+seaborn
+audio2numpy
