@@ -1,6 +1,9 @@
 scipy
 numpy
-os
 matplotlib
 seaborn
 audio2numpy
+librosa
+librosa soundfile
+librosa noisereduce
+torch
