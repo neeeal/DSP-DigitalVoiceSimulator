@@ -1,9 +1,8 @@
 scipy
 numpy
 matplotlib
-seaborn
-audio2numpy
 librosa
 librosa soundfile
 librosa noisereduce
 torch
+pydub
