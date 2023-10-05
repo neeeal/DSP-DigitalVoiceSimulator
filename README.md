@@ -13,7 +13,7 @@ The characters of this simulator are:
 ### Video/Audio used
 > https://www.youtube.com/watch?v=a2jgfMNmzUA
 
-### Dubbed/Audio video
+### Dubbed Audio/Video
 >https://drive.google.com/drive/folders/11tCrQxBJoA4HPuIOob8g0YaXjt1iQoP5?usp=sharing
 
 ## Features
