@@ -2,7 +2,7 @@ scipy
 numpy
 matplotlib
 librosa
-librosa soundfile
-librosa noisereduce
+soundfile
+noisereduce
 torch
 pydub
