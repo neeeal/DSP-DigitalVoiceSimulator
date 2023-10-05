@@ -5,4 +5,5 @@ librosa
 soundfile
 noisereduce
 torch
-pydub
+resampy
+samplerate
